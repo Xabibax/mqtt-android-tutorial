@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MQTT Tutorial</string>
+    <string name="broker_URI" translatable="false">tcp://192.168.1.52:1883</string>
+    <string name="clientID" translatable="false">xabiTestAndroidWatch</string>
+    <string name="topic" translatable="false">xabi</string>
+    <string name="textButton">Do it!</string>
+    <string name="channel_name">xabi</string>
+    <string name="channel_description">xabi\'s channel</string>
+    <string name="channel_id">my_channel_1</string>
+    <string name="notification_id">001</string>
+    <string name="reconnection_button">Se reconnecter</string>
+</resources>

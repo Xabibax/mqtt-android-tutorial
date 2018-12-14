@@ -23,7 +23,7 @@ public class MqttHelper {
     final String serverUri = "tcp://broker.hivemq.com:1883";
 
     final String clientId = "ExampleAndroidClient";
-    final String subscriptionTopic = "sensor/+";
+    final String subscriptionTopic = "xabi";//"sensor/+";
 
     final String username = "xxxxxxx";
     final String password = "yyyyyyy";
